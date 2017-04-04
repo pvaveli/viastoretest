@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 UIAdaptation_index.html
 changes_preview.js
@@ -10,3 +11,18 @@ fioriHtmlRunner.html
 .*/fioriHtmlRunner.html
 visual_ext_index.html
 /webapp/visual_ext_index.html
+=======
+UIAdaptation_index.html
+changes_preview.js
+sap-ui-cachebuster-info.json
+extended_runnable_file.html
+.*/extended_runnable_file.html
+mock_preview_sapui5.html
+.*/mock_preview_sapui5.html
+fioriHtmlRunner.html
+.*/fioriHtmlRunner.html
+visual_ext_index.html
+/webapp/visual_ext_index.html
+preview.json
+cp.project.properties.json
+>>>>>>> branch 'master' of https://github.com/viastoreSW15/viastoretest.git
