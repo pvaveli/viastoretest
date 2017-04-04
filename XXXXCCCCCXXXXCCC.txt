@@ -7,3 +7,5 @@ sdsdsssssdsssdssss
 1111111111111111111111111111111111111111111
 1111111111111111111111111111111111111111111
 >>>>>>> branch 'master' of https://github.com/viastoreSW15/viastoretest.git
+
+<DOCTYPE>
