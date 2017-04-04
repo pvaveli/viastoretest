@@ -23,5 +23,5 @@ bleib in der Schlange
 neue Zeile
 
 
-Aaaaaaaallllloooooo
+Aaaaaaaalllllo
 >>>>>>> 7b1879c 1111222
